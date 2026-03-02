@@ -19,3 +19,5 @@ Tableau (交互式业务看板输出)
 加购权值高于收藏：加购行为频次是收藏的 2.05 倍，且加购后 4 小时内是转化的黄金窗口，证明“购物车”是比“收藏夹”更强的成交信号。
 周末与大促共振：留存分析显示，12 月 2 日（周六）是行为拐点，全员回流率突破 90%，验证了“周末 + 预热”双重驱动的有效性。
 二八定律显现：约 34% 的重要价值用户贡献了主要的活跃度，针对该群体的深耕是提升 LTV（用户终身价值）的关键。
+<img width="1953" height="251" alt="funnel_results" src="https://github.com/user-attachments/assets/b90f908c-a5cc-4fea-b0bd-d25462b6f3f6" />
+<img width="1215" height="250" alt="rf_segments" src="https://github.com/user-attachments/assets/5150fc5c-3cbe-47b0-92c3-42173864b149" />
