@@ -21,3 +21,5 @@ Tableau (交互式业务看板输出)
 二八定律显现：约 34% 的重要价值用户贡献了主要的活跃度，针对该群体的深耕是提升 LTV（用户终身价值）的关键。
 <img width="2440" height="250" alt="rf_segments" src="https://github.com/user-attachments/assets/1540a2dd-dbd4-4781-9042-87e05bdfa80c" />
 <img width="2440" height="251" alt="funnel_results" src="https://github.com/user-attachments/assets/83cc6116-7cbe-4ee4-827e-d1c27f09c602" />
+<img width="1000" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/1d45f9ad-14d4-4597-be0b-d2554903f933" />
+<img width="1200" height="800" alt="Figure_2" src="https://github.com/user-attachments/assets/fc8708b8-b813-4204-97e2-ae1fef05b528" />
